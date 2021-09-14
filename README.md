@@ -2,7 +2,7 @@
 # ```Hey there!, I’m Alex.```
 
 * :godmode: I’m interested in **Programming** and **Art**
-* * :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:alexdeassis7@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/eichenbergerche)**_
+* * :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:alexdeassis7@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/alex-d-6037ba160/)**_
 <!---
 * :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
 * :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
@@ -23,6 +23,10 @@
     <a href="https://github.com/alexdeassis7/FlutterUTNjulio2021"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&card_height=300&&repo=FlutterUTNjulio2021&langs_count=5&layout=compact&theme=gruvbox">
   <a href="https://github.com/alexdeassis7/JavaArchitectJulio2021"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=JavaArchitectJulio2021&layout=compact&theme=gruvbox">
   <a href="https://github.com/alexdeassis7/SpringJulioJueVie"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SpringJulioJueVie&langs_count=10&layout=compact&theme=gruvbox">
+      <a href="https://github.com/alexdeassis7/Spring-Boot-REST-JsonWebToken"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=Spring-Boot-REST-JsonWebToken&langs_count=10&layout=compact&theme=gruvbox">
+          <a href="https://github.com/alexdeassis7/SwaggerSpingBootMavenHibernate"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SwaggerSpingBootMavenHibernate&langs_count=10&layout=compact&theme=gruvbox">
+               <a href="https://github.com/alexdeassis7/SpringBootRESTAPIMavenMongoDB"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SpringBootRESTAPIMavenMongoDB&langs_count=10&layout=compact&theme=gruvbox">
+                    <a href="https://github.com/alexdeassis7/SystemAdminUserJavaUTN"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexdeassis7&repo=SystemAdminUserJavaUTN&langs_count=10&layout=compact&theme=gruvbox">
 </p>  
    <!---    
 ## My Works
