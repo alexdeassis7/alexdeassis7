@@ -2,10 +2,11 @@
 # ```Hey there!, I’m Alex.```
 
 * :godmode: I’m interested in **Programming** and **Art**
+* * :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:alexdeassis7@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/eichenbergerche)**_
 <!---
 * :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff
 * :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
-* :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:eichenberger.che@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/eichenbergerche)**_
+* :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:eichenberger.che@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/alex-d-6037ba160/)**_
 --->
   
 <p align="left">
